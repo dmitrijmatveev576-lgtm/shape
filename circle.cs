@@ -13,4 +13,13 @@ public class Circle : Shape
     {
         return Math.PI * Radius * Radius;
     }
+
+    //Спецефічний метод для зміни радіуса кола
+    public void SetRadius(double newRadius)
+    {
+        if (newRadius > 0)
+        {
+            Radius = newRadius;
+        }
+    }
 }
