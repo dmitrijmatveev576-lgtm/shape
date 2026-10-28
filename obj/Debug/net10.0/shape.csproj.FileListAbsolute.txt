@@ -1,0 +1,14 @@
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\bin\Debug\net10.0\shape.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\bin\Debug\net10.0\shape.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\bin\Debug\net10.0\shape.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\bin\Debug\net10.0\shape.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\bin\Debug\net10.0\shape.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\obj\Debug\net10.0\shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\obj\Debug\net10.0\shape.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\obj\Debug\net10.0\shape.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\obj\Debug\net10.0\shape.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\obj\Debug\net10.0\shape.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\obj\Debug\net10.0\refint\shape.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\obj\Debug\net10.0\shape.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\obj\Debug\net10.0\shape.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\shape\obj\Debug\net10.0\ref\shape.dll
